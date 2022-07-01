@@ -1,0 +1,13 @@
+{
+  "name": "myhttpserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "startServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
